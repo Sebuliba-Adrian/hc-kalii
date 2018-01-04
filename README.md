@@ -1,4 +1,5 @@
 # healthchecks
+[![Build Status](https://travis-ci.org/Sebuliba-Adrian/hc-kalii.svg?branch=master)](https://travis-ci.org/Sebuliba-Adrian/hc-kalii)
 
 ![Screenshot of Welcome page](/stuff/screenshots/welcome.png?raw=true "Welcome Page")
 
